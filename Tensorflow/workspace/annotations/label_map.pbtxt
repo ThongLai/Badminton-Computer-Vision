@@ -1,0 +1,12 @@
+item { 
+	name:'racket'
+	id:1
+}
+item { 
+	name:'shuttle'
+	id:2
+}
+item { 
+	name:'human'
+	id:3
+}

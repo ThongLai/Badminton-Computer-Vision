@@ -1,0 +1,38 @@
+<annotation>
+	<folder>collected-images</folder>
+	<filename>racket.1d3d1329-ef78-11ed-817e-c272f481a12b.jpg</filename>
+	<path>D:\Thong Lai\Documents\Code\JupyterNotebook\Badminton_Computer_Vision\resources\images\collected-images\racket.1d3d1329-ef78-11ed-817e-c272f481a12b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>racket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>76</ymin>
+			<xmax>571</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>1</ymin>
+			<xmax>640</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
