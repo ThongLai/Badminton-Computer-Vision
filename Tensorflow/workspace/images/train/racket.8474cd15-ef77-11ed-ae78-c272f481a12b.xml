@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected-images</folder>
+	<filename>racket.8474cd15-ef77-11ed-ae78-c272f481a12b.jpg</filename>
+	<path>D:\Thong Lai\Documents\Code\JupyterNotebook\Badminton_Computer_Vision\Tensorflow\workspace\images\collected-images\racket.8474cd15-ef77-11ed-ae78-c272f481a12b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>racket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>126</ymin>
+			<xmax>640</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>
